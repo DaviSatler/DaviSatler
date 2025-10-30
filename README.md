@@ -1,4 +1,4 @@
-## Hi there 👋
+## Opa! Prazer, sou o Davi Satler 👋
 
  -👨‍🎓 Atualmente sou estudante de CCOM, 4° período
 - 🔭 Venho fazendo estágio de TI
