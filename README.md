@@ -7,6 +7,7 @@
 - 👯 Venho procurando novas oportunidades para aprimoramento e melhoria na área
 
 [![Davi Satler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSatler)](https://github.com/anuraghazra/github-readme-stats)
+[![Davi Satler's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DaviSatler_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DaviSatler/github-readme-stats#gh-dark-mode-only)
 
 
 
