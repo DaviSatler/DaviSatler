@@ -1,5 +1,4 @@
 ## Opa! Prazer, sou o Davi Satler 👋
-Computer Science student | IT Trainee | Technical Support | Problem Solving | Computer Networks | IT infrastructure maintenance
 
 
 -👨‍🎓 Atualmente sou estudante de CCOM, 4° período
