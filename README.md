@@ -9,7 +9,6 @@
 
 [![Davi Satler's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DaviSatler&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DaviSatler/github-readme-stats#gh-dark-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
 [![Top Langs by Davi](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSatler&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DaviSatler/github-readme-stats)
 
 
