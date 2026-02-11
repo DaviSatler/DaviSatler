@@ -1,4 +1,4 @@
-## Opa! Prazer, sou o Davi Satler 👋
+<img width="1193" height="691" alt="image" src="https://github.com/user-attachments/assets/05403e6a-bf44-417b-a4c5-6fd2ae5885c4" />## Opa! Prazer, sou o Davi Satler 👋
 
 
 -👨‍🎓 Atualmente sou estudante de CCOM, 4° período
@@ -8,6 +8,8 @@
 - 👯 Venho procurando novas oportunidades para aprimoramento e melhoria na área
 
 [![Davi Satler's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DaviSatler&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DaviSatler/github-readme-stats#gh-dark-mode-only)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
 [![Top Langs by Davi](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSatler&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DaviSatler/github-readme-stats)
 
 
