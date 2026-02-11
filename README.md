@@ -1,4 +1,4 @@
-<img width="1193" height="691" alt="image" src="https://github.com/user-attachments/assets/05403e6a-bf44-417b-a4c5-6fd2ae5885c4" />## Opa! Prazer, sou o Davi Satler 👋
+## Opa! Prazer, sou o Davi Satler 👋
 
 
 -👨‍🎓 Atualmente sou estudante de CCOM, 4° período
