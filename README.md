@@ -1,7 +1,7 @@
 ## Opa! Prazer, sou o Davi Satler 👋
 
 
--👨‍🎓 Atualmente sou estudante de CCOM, 4° período
+-👨‍🎓 Atualmente sou estudante de CCOM, 5° período
 - 🔭 Venho fazendo estágio de TI
 - 🌱 Hoje aprendo sobre C/Python
 - 🗣️ Possuo nível de inglês avançado
