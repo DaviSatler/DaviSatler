@@ -1,11 +1,15 @@
-## Opa! Prazer, sou o Davi Satler 👋
+Opa! Prazer, sou o Davi Satler 👋
+🎓 Estudante de Ciência da Computação — 5º período
+🤖 Atualmente atuo como Analista de Suporte em Automação e Inteligência Artificial
+⚙️ Trabalho com n8n, Dify, Chatwoot, APIs e Webhooks
+🧠 Tenho experiência com agentes de IA, automação de processos, integrações e análise de fluxos
+🖥️ Experiência anterior com Suporte Técnico, Infraestrutura de TI e Redes
+💻 Conhecimentos em C, Python, SQL, HTML/CSS e desenvolvimento de software
+🌎 Inglês avançado
+🚀 Sempre buscando aprender novas tecnologias e desenvolver soluções que resolvam problemas reais
+🛠️ Tecnologias e ferramentas
 
-
--👨‍🎓 Atualmente sou estudante de CCOM, 5° período
-- 🔭 Venho fazendo estágio de TI
-- 🌱 Hoje aprendo sobre C/Python
-- 🗣️ Possuo nível de inglês avançado
-- 👯 Venho procurando novas oportunidades para aprimoramento e melhoria na área
+n8n • Dify • Chatwoot • APIs • Webhooks • Python • C • SQL • Git • GitHub
 
 
 [![Davi Satler's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DaviSatler&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DaviSatler/github-readme-stats#gh-dark-mode-only)
