@@ -1,6 +1,6 @@
 # Opa! Prazer, sou o Davi Satler 👋
 
-* 🎓 Estudante de **Ciência da Computação — 5º período**
+* 🎓 Estudante de **Ciência da Computação — 6º período**
 * 🤖 Atualmente atuo como **Analista de Suporte em Automação e Inteligência Artificial**
 * ⚙️ Trabalho com **n8n, Dify, Chatwoot, APIs e Webhooks**
 * 🧠 Tenho experiência com **agentes de IA, automação de processos, integrações e análise de fluxos**
